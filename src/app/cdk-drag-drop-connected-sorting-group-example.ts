@@ -20,7 +20,7 @@ export class CdkDragDropConnectedSortingGroupExample {
     'Andressa',
     'Léo',
     'Camori',
-    'Leandro',
+    'Thiago',
     'Iago',
   ];
 
